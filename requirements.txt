@@ -1,0 +1,6 @@
+streamlit
+numpy
+pillow
+cv2
+google-generativeai
+pyttsx3
